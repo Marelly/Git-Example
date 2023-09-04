@@ -8,6 +8,7 @@ import gui.GameCanvas;
 //If so, add it to the class definition and implement the methods you want.
 public class MyCharacter {
 	
+	// This is a commnt I added to demonstare Git usage
 	private Point location;
 	private String imageID;
 	
